@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anubhav Rajput</title>
+</head>
+<body>
+
+  <h1>Anubhav Rajput</h1>
+  <p>Student & Developer from IILM University Greater Noida.</p>
+
+  <hr>
+
+  <h2>Projects</h2>
+  <ul>
+    <li><a href="#">Project One</a> — Xploit Web Vulnerability tool.</li>
+    <li><a href="#">Project Two</a> — E-Sarthi Gov.OPD Hospital System.</li>
+    <li><a href="#">Project Three</a> — Dark Pattern Identifier.</li>
+  </ul>
+
+  <hr>
+
+  <h2>About</h2>
+  <p>I am a student , learner , open source contributer & developer. worked on many open source , private & government based projects in the domain of cyber security , AI based solutions.</p>
+  <p>Skills:Cyber Secuirty , Gen AI Devlopment , problem solving</p>
+
+  <hr>
+
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:anubhavrajput.2006@gmail.com">anubhavrajput.2006@gmail.com</a></p>
+  <p><a href="#">GitHub</a href="https://github.com/WHENEVERSTOP24">· <a href="#">LinkedIn</a></p>
+
+</body>
+</html>
